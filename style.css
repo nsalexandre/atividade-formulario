@@ -1,0 +1,22 @@
+label {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+body {
+    background-color: black;
+    /*color: white; para colocar tudo q está no corpo em branco*/
+}
+
+.botao {
+    background-color: rgb(208, 255, 0);
+}
+
+/** {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}*/
